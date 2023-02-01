@@ -63,7 +63,7 @@ const Login = () => {
             <div className="px-6 h-full">
               <div className="flex xl:justify-center lg:justify-between justify-center items-center flex-wrap h-full g-6">
                 <div className="xl:ml-20 xl:w-5/12 lg:w-5/12 md:w-8/12 mb-12 md:mb-0">
-                  <h1 className="text-5xl text-center mb-4"><a className=" text-sky-600 " href="https://jwt.io/">JWT</a> LAB-mysecretoken</h1>
+                  <h1 className="text-5xl text-center mb-4"><a className=" text-sky-600 " href="https://jwt.io/">JWT</a> LAB-mysecrettoken</h1>
                   <form>
                     <div className="mb-6">
                       <input
